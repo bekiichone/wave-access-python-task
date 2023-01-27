@@ -5,7 +5,7 @@ I have created a class StatSum, which allows to produce statistical summary of i
 All required packages are in requirements.txt
 
 ## How to Use
-In main.py script you can find an example of using the module.
+In 'main.py' script you can find an example of using the module.
 First you have to create instance of class StatSum with attribue Pandas DataFrame. 
 As an example I am using [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris).
 ```python
